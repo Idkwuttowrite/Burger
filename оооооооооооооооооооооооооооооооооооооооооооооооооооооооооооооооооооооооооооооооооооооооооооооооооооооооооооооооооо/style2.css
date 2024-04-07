@@ -1,0 +1,30 @@
+h1{
+    background-color: aquamarine;
+    text-align: center;
+    height: 70px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    width: 300px;
+    border-radius: 20px;
+    height: fit-content;
+    overflow: hidden;
+}
+a{
+    display: block;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}

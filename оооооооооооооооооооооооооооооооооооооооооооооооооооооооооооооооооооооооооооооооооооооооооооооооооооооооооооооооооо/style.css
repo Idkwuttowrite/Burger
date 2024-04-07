@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    border: solid;
+    width: fit-content;
+    height: 500px;
+    background-color: antiquewhite;
+}
+p{
+    width: 300px;
+}
+a{
+    font-size: 30px;
+}
